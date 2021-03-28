@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rodrigotxt
+- 👀 I’m interested in PHP, Laravel, Vue.js...
+- 🌱 I’m currently learning Design Patterns.
+- 📫 How to reach me contato@rodrigo.inf.br
