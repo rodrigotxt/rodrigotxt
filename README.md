@@ -2,3 +2,4 @@
 - 👀 I’m interested in PHP, Laravel, Vue.js...
 - 🌱 I’m currently learning Design Patterns.
 - 📫 How to reach me contato@rodrigo.inf.br
+- 💼 My Profile in [Linkedin](https://www.linkedin.com/in/rodrigotxt/)
